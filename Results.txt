@@ -1,8 +1,8 @@
 LeNetCIFAR10 - Accuracy: 67.25%
 LeNetMNIST - Accuracy: 98.77%
 
-AlexNetCIFAR10 - Accuracy:
+AlexNetCIFAR10 - Accuracy: 81.23%
 AlexNetMNIST - Accuracy: 99.46%
 
-ResNetCIFAR10 - Accuracy:
-ResNetMNIST - Accuracy:
+ResNetCIFAR10 - Accuracy:   78.69%
+ResNetMNIST - Accuracy: 98.66%
